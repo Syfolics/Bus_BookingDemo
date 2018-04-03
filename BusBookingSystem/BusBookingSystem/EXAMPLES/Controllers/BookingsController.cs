@@ -38,33 +38,9 @@ namespace BusBookingSystem.Controllers
             return View(booking);
         }
 
-        // GET: Bookings/Create
-        //public ActionResult Create()
-        //{
-        //    ViewBag.TripId = new SelectList(db.Trips, "TripId", "Departure");
-        //    return View();
-        //}
+ 
 
-        //// POST: Bookings/Create
-        //// To protect from overposting attacks, please enable the specific properties you want to bind to, for 
-        //// more details see http://go.microsoft.com/fwlink/?LinkId=317598.
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public async Task<ActionResult> Create([Bind(Include = "BookingId,BookingDate,TripId,UserName")] Booking booking)
-        //{
-        //    if (ModelState.IsValid)
-        //    {
-        //        //await booking.ConfirmBooking()
-        //        booking.BookingDate = DateTime.Now;
-        //        booking.UserName = User.Identity.Name;
-        //        db.Bookings.Add(booking);
-        //        await db.SaveChangesAsync();
-        //        return RedirectToAction("Index");
-        //    }
-
-        //    ViewBag.TripId = new SelectList(db.Trips, "TripId", "Departure", booking.TripId);
-        //    return View(booking);
-        //}
+ 
 
         // GET: Bookings/Edit/5
         public async Task<ActionResult> Edit(int? id)
