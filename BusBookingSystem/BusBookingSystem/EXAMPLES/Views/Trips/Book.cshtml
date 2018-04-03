@@ -1,0 +1,81 @@
+﻿@model BusBookingSystem.Models.Trip
+
+@{
+    ViewBag.Title = "Book";
+}
+
+<h2>Book</h2>
+
+<h3>Are you sure you want to make a booking for this trip?</h3>
+<div>
+    <h4>Trip</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Town.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Town.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TripDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TripDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Departure)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Departure)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Arrival)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Arrival)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BusId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BusId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SeatsAvailable)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SeatsAvailable)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fare)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fare)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Book" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,80 @@
+﻿@model BusBookingSystem.Models.Trip
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Trip</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Town.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Town.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TripDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TripDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Departure)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Departure)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Arrival)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Arrival)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BusId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BusId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SeatsAvailable)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SeatsAvailable)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fare)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fare)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

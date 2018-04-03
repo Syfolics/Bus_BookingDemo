@@ -1,0 +1,80 @@
+﻿@model IEnumerable<BusBookingSystem.Models.Trip>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Town.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TripDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Departure)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Arrival)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BusId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SeatsAvailable)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fare)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Town.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TripDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Departure)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Arrival)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BusId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SeatsAvailable)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fare)
+            </td>
+            
+                @if(HttpContext.Current.User.IsInRole("Admin"))
+                {
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id=item.TripId }) |
+                        @Html.ActionLink("Details", "Details", new { id=item.TripId }) |
+                        @Html.ActionLink("Delete", "Delete", new { id=item.TripId })
+                    </td>
+                 }
+                 else
+                 {
+                     <td>
+                        @Html.ActionLink("Book trip", "Book", new { id = item.TripId })
+                     </td>
+                 }
+                    
+        </tr>
+}
+
+</table>

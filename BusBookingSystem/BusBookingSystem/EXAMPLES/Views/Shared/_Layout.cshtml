@@ -1,0 +1,74 @@
+﻿@using Microsoft.AspNet.Identity
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/Content/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/css/magnific-popup.css" rel="stylesheet" />
+    <link href="~/Content/css/owl.carousel.css" rel="stylesheet" />
+    <link href="~/Content/css/style.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Bus Booking System</title>
+ 
+</head>
+
+<body>
+    <div class="page">
+        <header>
+
+
+            <div class="clear"></div>
+            <div class="menu">
+                <nav>
+                    @*<style>
+        body {
+            background-image: url('untitled2.png');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>*@
+                    <div class="btn btn-info">@Html.ActionLink("Home", "Index", "Home")</div> 
+                    <div class="btn btn-info">@Html.ActionLink("Login", "Login", "Account")</div>
+                        
+
+                    @if (HttpContext.Current.User.IsInRole("Admin"))
+                    {
+                        <div class="btn btn-info">@Html.ActionLink("Buses", "Index", "Buses")</div>
+                         <div class="btn btn-info">@Html.ActionLink("Towns", "Index", "Towns")</div>
+                         <div class="btn btn-info">@Html.ActionLink("Bookings", "Index", "Bookings")</div>
+                                }
+
+                                @if (HttpContext.Current.User.Identity.IsAuthenticated)
+                    {
+                                   <div class="btn btn-info"> @Html.ActionLink("Upcoming trips", "Index", "Trips")</div>
+                    }
+</nav>
+            </div>
+            @Html.Partial("_LoginPartial")
+
+        </header>
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - Bus Booking System</p>
+            </footer>
+
+            <div id="social_box">
+                <a href="www.facebook.com"><img src="images/fac1.png" alt="facebook" /></a>
+                <a href="#"><img src="images/tw1.png" alt="twitter" /></a>
+                <a href="#"><img src="images/go1.png" alt="twitter" /></a>
+            </div>
+
+        </div>
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+
+        <script src="~/Content/js/jquery.min.js"></script>
+        <script src="~/Content/js/nivo-lightbox.min.js"></script>
+        <script src="~/Content/js/owl.carousel.js"></script>
+    </div>
+</body>
+</html>

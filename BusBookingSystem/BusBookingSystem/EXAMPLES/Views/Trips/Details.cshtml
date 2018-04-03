@@ -1,0 +1,74 @@
+﻿@model BusBookingSystem.Models.Trip
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Trip</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Town.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Town.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TripDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TripDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Departure)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Departure)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Arrival)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Arrival)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BusId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BusId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SeatsAvailable)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SeatsAvailable)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fare)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fare)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TripId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

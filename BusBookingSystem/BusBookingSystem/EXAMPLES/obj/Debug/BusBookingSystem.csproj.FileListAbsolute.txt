@@ -1,0 +1,412 @@
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\EXAMPLES.dll.config
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\EXAMPLES.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\EXAMPLES.pdb
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Antlr3.Runtime.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\EntityFramework.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\EntityFramework.SqlServer.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\manage.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.Google.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Web.Infrastructure.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Newtonsoft.Json.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Owin.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.Helpers.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.Mvc.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.Optimization.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.Razor.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.WebPages.Deployment.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.WebPages.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.WebPages.Razor.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\WebGrease.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\manage.pdb
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.Helpers.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.Mvc.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.Optimization.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.Razor.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.WebPages.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.WebPages.Deployment.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\System.Web.WebPages.Razor.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Antlr3.Runtime.pdb
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Newtonsoft.Json.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\EntityFramework.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\EntityFramework.SqlServer.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.Google.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\obj\Debug\BusBookingSystem.csprojResolveAssemblyReference.cache
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\obj\Debug\BusBookingSystem.csproj.GenerateResource.Cache
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\obj\Debug\EXAMPLES.dll
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\obj\Debug\EXAMPLES.pdb
+E:\BlueRated_Stuff\EXAMPLES\EXAMPLES\obj\Debug\BusBookingSystem.Migrations.name.resources
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\EXAMPLES.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\EXAMPLES.pdb
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Antlr3.Runtime.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\EntityFramework.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\EntityFramework.SqlServer.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\manage.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Google.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Web.Infrastructure.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Newtonsoft.Json.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Owin.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Helpers.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Mvc.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Optimization.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Razor.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Deployment.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Razor.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\WebGrease.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\manage.pdb
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Helpers.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Mvc.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Optimization.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Razor.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Deployment.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Razor.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Antlr3.Runtime.pdb
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Newtonsoft.Json.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\EntityFramework.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\EntityFramework.SqlServer.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Google.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.csprojResolveAssemblyReference.cache
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.Migrations.name.resources
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.csproj.GenerateResource.Cache
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\obj\Debug\EXAMPLES.dll
+F:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\obj\Debug\EXAMPLES.pdb
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\EXAMPLES.dll.config
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\EXAMPLES.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\EXAMPLES.pdb
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Antlr3.Runtime.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\EntityFramework.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\EntityFramework.SqlServer.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\manage.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Google.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Web.Infrastructure.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Newtonsoft.Json.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Owin.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Helpers.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Mvc.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Optimization.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Razor.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Deployment.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Razor.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\WebGrease.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\manage.pdb
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Helpers.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Mvc.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Optimization.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.Razor.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Deployment.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Razor.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Antlr3.Runtime.pdb
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Newtonsoft.Json.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\EntityFramework.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\EntityFramework.SqlServer.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Google.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.csprojResolveAssemblyReference.cache
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.Migrations.name.resources
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.csproj.GenerateResource.Cache
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\obj\Debug\EXAMPLES.dll
+E:\BlueRated_Stuff\BusBookingSystem\EXAMPLES\obj\Debug\EXAMPLES.pdb
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\EXAMPLES.dll.config
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\EXAMPLES.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\EXAMPLES.pdb
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Antlr3.Runtime.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\EntityFramework.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\EntityFramework.SqlServer.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\manage.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Newtonsoft.Json.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Owin.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Helpers.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Mvc.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Optimization.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Razor.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Razor.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\WebGrease.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\manage.pdb
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Helpers.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Mvc.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Optimization.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Razor.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Razor.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Antlr3.Runtime.pdb
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Newtonsoft.Json.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\EntityFramework.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\EntityFramework.SqlServer.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.Migrations.name.resources
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.csproj.GenerateResource.Cache
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\obj\Debug\EXAMPLES.dll
+C:\Users\Londani\Desktop\BusBookingSystem\EXAMPLES\obj\Debug\EXAMPLES.pdb
+F:\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.csprojResolveAssemblyReference.cache
+F:\BusBookingSystem\EXAMPLES\obj\Debug\EXAMPLES.dll
+F:\BusBookingSystem\EXAMPLES\obj\Debug\EXAMPLES.pdb
+F:\BusBookingSystem\EXAMPLES\bin\EXAMPLES.dll.config
+F:\BusBookingSystem\EXAMPLES\bin\EXAMPLES.dll
+F:\BusBookingSystem\EXAMPLES\bin\EXAMPLES.pdb
+F:\BusBookingSystem\EXAMPLES\bin\Antlr3.Runtime.dll
+F:\BusBookingSystem\EXAMPLES\bin\EntityFramework.dll
+F:\BusBookingSystem\EXAMPLES\bin\EntityFramework.SqlServer.dll
+F:\BusBookingSystem\EXAMPLES\bin\manage.dll
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.dll
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.dll
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.dll
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.dll
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.dll
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Google.dll
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.dll
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.dll
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Web.Infrastructure.dll
+F:\BusBookingSystem\EXAMPLES\bin\Newtonsoft.Json.dll
+F:\BusBookingSystem\EXAMPLES\bin\Owin.dll
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.Helpers.dll
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.Mvc.dll
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.Optimization.dll
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.Razor.dll
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Deployment.dll
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.dll
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Razor.dll
+F:\BusBookingSystem\EXAMPLES\bin\WebGrease.dll
+F:\BusBookingSystem\EXAMPLES\bin\manage.pdb
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.Helpers.xml
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.Mvc.xml
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.Optimization.xml
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.Razor.xml
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.xml
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Deployment.xml
+F:\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Razor.xml
+F:\BusBookingSystem\EXAMPLES\bin\Antlr3.Runtime.pdb
+F:\BusBookingSystem\EXAMPLES\bin\Newtonsoft.Json.xml
+F:\BusBookingSystem\EXAMPLES\bin\EntityFramework.xml
+F:\BusBookingSystem\EXAMPLES\bin\EntityFramework.SqlServer.xml
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.xml
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.xml
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.xml
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.xml
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.xml
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.xml
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Google.xml
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.xml
+F:\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.Migrations.InitialCreate.resources
+F:\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.csproj.GenerateResource.Cache
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\EXAMPLES.dll.config
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\EXAMPLES.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\EXAMPLES.pdb
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Antlr3.Runtime.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\EntityFramework.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\EntityFramework.SqlServer.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\manage.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Newtonsoft.Json.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Owin.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Helpers.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Mvc.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Optimization.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Razor.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Deployment.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Razor.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\WebGrease.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\manage.pdb
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Helpers.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Mvc.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Optimization.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.Razor.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Deployment.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Razor.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Antlr3.Runtime.pdb
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Newtonsoft.Json.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\EntityFramework.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\EntityFramework.SqlServer.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.csprojResolveAssemblyReference.cache
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.Migrations.InitialCreate.resources
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.csproj.GenerateResource.Cache
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\obj\Debug\EXAMPLES.dll
+C:\Users\21220465\Desktop\BusBookingSystem\EXAMPLES\obj\Debug\EXAMPLES.pdb
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\EXAMPLES.dll.config
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\EXAMPLES.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\EXAMPLES.pdb
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Antlr3.Runtime.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\EntityFramework.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\EntityFramework.SqlServer.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\manage.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Google.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Web.Infrastructure.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Newtonsoft.Json.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Owin.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.Helpers.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.Mvc.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.Optimization.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.Razor.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Deployment.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Razor.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\WebGrease.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\manage.pdb
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.Helpers.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.Mvc.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.Optimization.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.Razor.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Deployment.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\System.Web.WebPages.Razor.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Antlr3.Runtime.pdb
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Newtonsoft.Json.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\EntityFramework.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\EntityFramework.SqlServer.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Core.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Facebook.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Cookies.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.OAuth.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Google.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.Twitter.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.csprojResolveAssemblyReference.cache
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.Migrations.InitialCreate.resources
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\obj\Debug\BusBookingSystem.csproj.GenerateResource.Cache
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\obj\Debug\EXAMPLES.dll
+E:\workayfo\2015\side work\BusBookingSystem\BusBookingSystem\EXAMPLES\obj\Debug\EXAMPLES.pdb
